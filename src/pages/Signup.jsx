@@ -6,7 +6,7 @@ function Signup() {
   
   const [password,setPassword] = useState ('')
   const [email,setEmail] = useState('')
-  const {user, signUp } = UserAuth()
+  const { signUp } = UserAuth()
   const navigate = useNavigate()
 
 
