@@ -40,13 +40,16 @@
 
 <h2 align="center"> Movies List </h2>
 
-![List](/assets/preview4.PNG)
+![List](/assets/Animation.gif)
 
 <h2 align="center"> Firebase Auth </h2>
 
-![FirebaseAuth](/assets/preview5.PNG)
+![FirebaseAuth](/assets/preview6.PNG)
 
 <h2 align="center"> Firebase Collection Details </h2>
 
-![FirebaseDetails](/assets/preview6.PNG)
+![FirebaseDetails](/assets/preview5.PNG)
 
+## Como iniciar el proyecto
+
+Des
