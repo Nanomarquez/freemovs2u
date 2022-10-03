@@ -6,6 +6,13 @@
 
 <p>Deploy: <a href='https://bucolic-raindrop-9777b4.netlify.app/'>FreeMovs2u</a></p>
 
-*[Objetivo](#Objetivo)
+## Objetivos
+
+- `Desarrollar app para ver detalles de peliculas`
+- `Utilizar API themoviedb`
+- `Proteccion de rutas`
+- `Implementar auth, login, register, logout`
+- `Desarollar sistema de favoritos`
+- `Responsive`
 
 
