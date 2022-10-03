@@ -26,10 +26,27 @@
 
 ## Previews
 
+<h2 align="center"> Login </h2>
+
 ![Login](/assets/preview1.PNG)
+
+<h2 align="center"> Home </h2>
+
 ![Home](/assets/preview2.PNG)
+
+<h2 align="center"> Favorites </h2>
+
 ![Favorites](/assets/preview3.PNG)
+
+<h2 align="center"> Movies List </h2>
+
 ![List](/assets/preview4.PNG)
+
+<h2 align="center"> Firebase Auth </h2>
+
 ![FirebaseAuth](/assets/preview5.PNG)
+
+<h2 align="center"> Firebase Collection Details </h2>
+
 ![FirebaseDetails](/assets/preview6.PNG)
 
