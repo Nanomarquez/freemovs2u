@@ -1,8 +1,11 @@
-<h1 align="center"> Su título aquí </h1>
+<h1 align="center"> FreeMovs2u </h1>
 
-Hello world I created this application mockup to watch movies for free.
-It is a fluid interface, you can not enter if you are not registered. You can add
-your favorites movies in your account. Thanks for view
-the technologies that I used were React js, Tailwind, Firebase(backend), Javascript, Netlify to deploy.
+   <p align="center">
+   <img src="https://img.shields.io/badge/STATUS-DEPLOY-brightgreen">
+   </p>
 
-Visit in https://bucolic-raindrop-9777b4.netlify.app/
+<p>Deploy: <a href='https://bucolic-raindrop-9777b4.netlify.app/'>FreeMovs2u</a></p>
+
+*[Objetivo](#Objetivo)
+
+
