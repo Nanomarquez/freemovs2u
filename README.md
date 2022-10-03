@@ -50,6 +50,3 @@
 
 ![FirebaseDetails](/assets/preview5.PNG)
 
-## Como iniciar el proyecto
-
-Des
