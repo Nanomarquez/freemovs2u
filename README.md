@@ -15,4 +15,21 @@
 - `Desarollar sistema de favoritos`
 - `Responsive`
 
+## Tecnologias
+
+- `React`
+- `Javascript`
+- `Tailwind CSS`
+- `Firebase`
+- `Themoviedb API`
+- `Axios`
+
+## Previews
+
+![Login](/assets/preview1.PNG)
+![Home](/assets/preview2.PNG)
+![Favorites](/assets/preview3.PNG)
+![List](/assets/preview3.PNG)
+![FirebaseAuth](/assets/preview4.PNG)
+![FirebaseDetails](/assets/preview5.PNG)
 
